@@ -1,5 +1,5 @@
 <?php
 print('<h1>Silence will fall!</h1>');
 
-print("Silence must fall");
+print("<h2>Silence must fall</h2>");
 ?>
